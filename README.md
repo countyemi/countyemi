@@ -3,7 +3,7 @@
 - I'm proficient in SQL, Python, PowerBI, Pandas, Numpy, Seaborn, Sci-kit Learn
 - 🌱 I’m currently learning a bunch of ML algorithms, Tensorflow, and data pipeline architectures
 - 💞️ Reach out if you like my work and would like to collab!
-- 📫 You can reach me on https://www.linkedin.com/in/adeyemi-adeleye-b4119b16b/ or countyemi@gmail.com
+- 📫 You can reach me on www.linkedin.com/in/adeyemi-adeleye-datascientist-dataanalyst or countyemi@gmail.com
 
 <!---
 countyemi/countyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
