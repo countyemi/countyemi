@@ -1,13 +1,21 @@
 - 👋 Hi, I’m Adeyemi Adeleye      
 
 Tool Stack:
+
     Kubernetes
+    
     Docker
+    
     Jenkins
+    
     Terraform
+    
     AWS
+    
     Ansible
+    
     Python
+    
     Java, and ofcourse 
     git :)
 - 📫 You can reach me at countyemi@gmail.com
