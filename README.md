@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adeyemi Adeleye      
 
-
 Tool Stack:
     Kubernetes
     Docker
